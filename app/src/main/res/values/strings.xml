@@ -31,5 +31,8 @@
     <string name="ABC">ABC</string>
     <string name="NBC">NBC</string>
     <string name="CBS">CBS</string>
-
+    <string name="On">On</string>
+    <string name="Off">Off</string>
+    <string name="My_TV">My TV</string>
+    <string name="My_Remote">My Remote Control</string>
 </resources>
